@@ -1,0 +1,18 @@
+.odd {
+    background: #f88e8e;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.fsize {
+    font-size: 24px;
+}
+
+#d1 {
+    color: #001aff;
+    font-size: 32px;
+}
+
+#d2 {
+    background-color: #aeffa3;
+    font-weight: 700;
+}
